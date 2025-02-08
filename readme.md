@@ -8,8 +8,7 @@ I am a passionate developer with experience in building scalable web application
 
 ## Live Demo
 
-Check out the live version of my portfolio [here](https://portfolio-sooty-seven-51.vercel.app).
-
+Check out the live version of my portfolio [here](portfolio-kgopbyfr4-priya-bhartis-projects-4ba43046.vercel.app).
 ## ✨ Features
 
 - Customizable - Adapts to your needs
